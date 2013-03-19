@@ -6,6 +6,7 @@ Chart.js
 Documentation
 -------
 You can find documentation at [chartjs.org/docs](http://www.chartjs.org/docs).
+Alternate documentation: http://danielsamuels.github.com/chart-js/
 
 License
 -------
